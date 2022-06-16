@@ -1,5 +1,6 @@
 a=100
 echo "$a"
+###############
 #Arthimetic substution
 b=$((3+2))
 echo $b
