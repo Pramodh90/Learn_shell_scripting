@@ -3,3 +3,11 @@
 b=$((3+2))
 echo $b
 
+#Command substuitution
+
+DATE=$(date +%F)
+
+echo "Welcome, today date is $DATE"
+
+
+
