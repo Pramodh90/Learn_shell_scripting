@@ -9,5 +9,6 @@ DATE=$(date +%F)
 
 echo "Welcome, today date is $DATE"
 
+#### Varibale for comand line"
 
 
